@@ -1,0 +1,38 @@
+[
+    {
+        "nama_pelayanan": "Dokter",
+        "images": "assets/icons/dokter.png"
+    },
+    {
+        "nama_pelayanan": "Perawatan Luka",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Khitan",
+        "images": "assets/icons/kitan.png"
+    },
+    {
+        "nama_pelayanan": "Bekam",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Hipnoterapi",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Fisioterapi",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Akupuntur",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Laboratorium",
+        "images": "assets/icons/perawatanLuka.png"
+    },
+    {
+        "nama_pelayanan": "Informasi Lain",
+        "images": "assets/icons/perawatanLuka.png"
+    }
+]
